@@ -34,3 +34,7 @@ El código de este proyecto de investigación se puede encontrar <a href="./code
 
 Las diapositivas de este proyecto se pueden encontrar <a href="./diapositivas.pdf">aquí</a>.
 
+# Vídeo
+
+La presentación final de este proyecto se puede encontrar <a href="https://www.youtube.com/watch?v=MMKUV2yXvmM">aquí</a>.
+
