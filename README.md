@@ -26,3 +26,11 @@ El ground truth de nuestro proyecto es la columna #17 'NObeyesdad' que contiene 
   <li>Obesity_Type_III - 6</li>
 </ul>
 
+# Código
+
+El código de este proyecto de investigación se puede encontrar <a href="./code">aquí</a>.
+
+# Diapositivas
+
+Las diapositivas de este proyecto se pueden encontrar <a href="./diapositivas.pdf">aquí</a>.
+
