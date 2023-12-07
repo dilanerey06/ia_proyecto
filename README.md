@@ -1,6 +1,6 @@
 # Proyecto final Inteligencia Artificial I (F1)
 <p align="center">
-  <img src="/img/banner.jpg"  alt="banner"/>
+  <img src="/img/banner_v2.jpg"  alt="banner"/>
 </p>
 
 # Integrantes
